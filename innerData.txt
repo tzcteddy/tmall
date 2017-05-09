@@ -1,0 +1,11 @@
+[
+{"src":"image/banner/inner1.jpg"},
+{"src":"image/banner/inner2.jpg"},
+{"src":"image/banner/inner3.jpg"},
+{"src":"image/banner/inner4.jpg"},
+{"src":"image/banner/inner5.jpg"},
+{"src":"image/banner/inner6.jpg_q100"},
+{"src":"image/banner/inner7.jpg_q1"},
+{"src":"image/banner/inner8.jpg_q10"},
+{"src":"image/banner/inner9.jpg_q10"}
+]
